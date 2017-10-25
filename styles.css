@@ -1,0 +1,21 @@
+/*New code here*/
+.box-set {
+  position: relative;
+  height: 400px;
+  background: darkgray;
+}
+
+.box {
+  position: fixed;
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+}
+
+
+.box-1 {
+  position: relative;
+   width: 150px;
+  height: 150px;
+  top: 20%;
+}
